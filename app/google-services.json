@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756693749455",
+    "project_id": "king-s-roulette-d44b6",
+    "storage_bucket": "king-s-roulette-d44b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756693749455:android:a0364a13db6635b9eab1ba",
+        "android_client_info": {
+          "package_name": "com.example.kingsroulette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756693749455-uvkdkav13lrq9qknl8429j4db4jr2j2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmVCMXt7TNUpKRxbKFDFPyJ3l35AaX9mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756693749455-uvkdkav13lrq9qknl8429j4db4jr2j2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

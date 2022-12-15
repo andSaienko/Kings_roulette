@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">King\'s roulette</string>
+    <string name="king_s_roulette">King\'s Roulette</string>
+    <string name="welcome_to_the">Welcome to the</string>
+    <string name="shop">shop</string>
+    <string name="play">play</string>
+    <string name="roll">roll</string>
+    <string name="let_s_roll">let\'s roll</string>
+    <string name="buy_10_coins">buy 10 coins</string>
+    <string name="buy_50_coins">buy 50 coins</string>
+    <string name="buy_200_coins">buy 200 coins</string>
+</resources>
